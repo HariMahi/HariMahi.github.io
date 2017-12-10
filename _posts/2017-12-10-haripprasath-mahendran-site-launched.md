@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Hank Quinlan, Horrible Cop, Launches Site"
-date: 2014-04-30
+title: "Hari, Launches Site"
+date: 2017-12-10
 ---
 
 Hi I'm Hari, a Junior in a affiliated college of Anna University.
